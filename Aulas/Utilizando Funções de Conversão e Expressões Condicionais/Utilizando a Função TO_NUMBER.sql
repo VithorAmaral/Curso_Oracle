@@ -1,0 +1,4 @@
+SELECT
+    TO_NUMBER('12000,50')
+FROM
+    dual;
