@@ -1,0 +1,3 @@
+DROP INDEX employees_last_name_idx;
+
+DROP INDEX employees_last_name_first_name_idx;
