@@ -1,0 +1,1 @@
+DROP INDEX employees_job_id_idx ONLINE;

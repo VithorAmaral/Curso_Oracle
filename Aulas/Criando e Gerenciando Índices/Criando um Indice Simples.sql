@@ -1,4 +1,4 @@
-CREATE INDEX employees_last_name_idx ON
+CREATE INDEX employees_job_id_idx ON
     employees (
-        last_name
+        job_id
     );

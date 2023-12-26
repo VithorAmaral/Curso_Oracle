@@ -7,8 +7,8 @@ SELECT
     ix.status,
     ix.tablespace_name
 FROM
-         user_indexes ix
-    JOIN user_ind_columns ic ON ( ix.index_name = ic.index_name )
+         all_indexes ix
+    JOIN all_ind_columns ic ON ( ix.index_name = ic.index_name )
                                 AND ( ix.table_name = ic.table_name )
 WHERE
     ix.table_name = 'EMPLOYEES'
