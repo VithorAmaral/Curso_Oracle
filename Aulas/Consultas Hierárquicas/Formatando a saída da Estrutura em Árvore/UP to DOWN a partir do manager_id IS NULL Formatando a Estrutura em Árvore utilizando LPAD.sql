@@ -17,7 +17,7 @@ SELECT
          length(level
                 || '.'
                 || last_name) +(level * 4) - 4,
-         ' ')
+         ' ') last_name
 FROM
     employees
 START WITH
