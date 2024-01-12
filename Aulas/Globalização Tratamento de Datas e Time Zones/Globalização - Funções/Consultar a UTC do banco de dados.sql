@@ -1,0 +1,4 @@
+SELECT
+    dbtimezone
+FROM
+    dual;

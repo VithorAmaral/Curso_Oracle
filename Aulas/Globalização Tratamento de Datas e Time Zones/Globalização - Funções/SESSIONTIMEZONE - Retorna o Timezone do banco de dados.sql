@@ -1,0 +1,4 @@
+SELECT
+    sessiontimezone
+FROM
+    dual;
