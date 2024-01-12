@@ -1,0 +1,4 @@
+SELECT
+    INTERVAL '333 20:20:20' DAY TO SECOND
+FROM
+    dual;

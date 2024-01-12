@@ -1,0 +1,4 @@
+SELECT
+    INTERVAL '555-11' YEAR TO MONTH
+FROM
+    dual;

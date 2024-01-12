@@ -1,0 +1,9 @@
+SELECT
+    INTERVAL '333 20:20:20' DAY ( 3 ) TO SECOND
+FROM
+    dual;
+
+SELECT
+    INTERVAL '500' HOUR
+FROM
+    dual;

@@ -1,0 +1,19 @@
+SELECT
+    INTERVAL '555-11' YEAR ( 4 ) TO MONTH
+FROM
+    dual;
+
+SELECT
+    INTERVAL '350' MONTH
+FROM
+    dual;
+
+SELECT
+    INTERVAL '10' YEAR
+FROM
+    dual;
+
+SELECT
+    INTERVAL '33 20:20:20' DAY TO SECOND
+FROM
+    dual;
