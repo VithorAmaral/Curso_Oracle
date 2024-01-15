@@ -1,0 +1,1 @@
+mkdir C:\cursos\oracle\sql_especialista

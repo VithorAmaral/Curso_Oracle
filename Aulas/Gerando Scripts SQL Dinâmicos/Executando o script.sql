@@ -1,0 +1,1 @@
+@C:\cursos\oracle\sql_especialista\drop_tables.sql
