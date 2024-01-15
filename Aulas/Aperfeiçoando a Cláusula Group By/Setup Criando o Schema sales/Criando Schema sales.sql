@@ -1,0 +1,8 @@
+DROP USER sales CASCADE;
+
+CREATE USER sales IDENTIFIED BY sales
+    DEFAULT TABLESPACE users
+    QUOTA UNLIMITED ON users
+    TEMPORARY TABLESPACE temp;
+
+GRANT connect, resource TO sales;
