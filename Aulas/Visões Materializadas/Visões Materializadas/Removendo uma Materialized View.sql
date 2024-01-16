@@ -1,0 +1,1 @@
+DROP MATERIALIZED VIEW mv_department_max_salaries;
