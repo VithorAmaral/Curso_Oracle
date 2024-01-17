@@ -1,0 +1,3 @@
+CREATE MATERIALIZED VIEW LOG ON employees;
+
+DROP MATERIALIZED VIEW mv_it_programers;
