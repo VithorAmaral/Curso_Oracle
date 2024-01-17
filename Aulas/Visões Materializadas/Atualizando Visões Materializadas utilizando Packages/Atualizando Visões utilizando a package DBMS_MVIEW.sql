@@ -1,0 +1,1 @@
+execute dbms_mview.refresh('mv_it_programmers', 'F')

@@ -1,0 +1,5 @@
+GRANT EXECUTE ON dbms_snapshot TO curso;
+
+GRANT
+    ALTER ANY MATERIALIZED VIEW
+TO curso;

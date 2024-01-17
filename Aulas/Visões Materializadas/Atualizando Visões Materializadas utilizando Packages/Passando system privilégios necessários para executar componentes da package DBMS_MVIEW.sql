@@ -1,0 +1,1 @@
+GRANT EXECUTE ON dbms_mview TO curso;
