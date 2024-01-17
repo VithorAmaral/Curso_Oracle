@@ -1,0 +1,7 @@
+CREATE MATERIALIZED VIEW LOG ON employees;
+
+DROP MATERIALIZED VIEW mv_sales_manager;
+
+CREATE MATERIALIZED VIEW LOG ON departments;
+
+DROP MATERIALIZED VIEW mv_department_max_salaries;
